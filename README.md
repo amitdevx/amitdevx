@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit Gehlot!
+# 👋 Hi, I'm Amit Gahlot!
 🚀 **Web Designer & Mobile App Developer** | Passionate about crafting modern UI/UX & high-performance applications.
 
 ## 🔥 About Me
