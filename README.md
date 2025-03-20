@@ -17,7 +17,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=amitdevx&theme=github-dark-blue&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdevx&layout=compact&theme=github-dark)
 
 ## 📫 Contact Me
