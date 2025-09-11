@@ -1,4 +1,4 @@
-![Profile Banner](./docs/banner-dark.png)
+![Profile Banner](./docs/banner-white.png)
 
 # Amit Divekar 👨‍💻
 
