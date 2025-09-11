@@ -1,3 +1,5 @@
+![Profile Banner](./docs/banner-dark.png)
+
 # Amit Divekar 👨‍💻
 
 **uffamit** · he/him · 1 follower · 3 following  
@@ -36,11 +38,9 @@ I'm a passionate B.Sc. Computer Science student at Savitribai Phule Pune Univers
 - **[portfolio](https://github.com/uffamit/portfolio)**  
   A modern, responsive portfolio with 3D animations and an AI-driven skills graph, hosted on Vercel.  
   *TypeScript*  
-  ![Portfolio Screenshot](./docs/portfolio-screenshot.png)
 
 - **[file-upload1](https://github.com/uffamit/file-upload1)**  
   A utility for secure and efficient file uploads with a clean interface.  
-  ![File Upload Screenshot](./docs/file-upload-screenshot.png)
 
 ## 📊 GitHub Stats
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uffamit&show_icons=true&theme=dracula)
@@ -48,10 +48,8 @@ I'm a passionate B.Sc. Computer Science student at Savitribai Phule Pune Univers
 
 ## 📫 Get in Touch
 - 🌐 [Portfolio](https://portfolio-pi-azure-36xqccppwx.vercel.app/)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/uffamit](https://www.linkedin.com/in/divekar-amit/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/divekar-amit/)
 - 📧 [Email](mailto:amitdivekar289@gmail.com)
-
-![Profile Banner](./docs/banner-dark.png)
 
 ---
 
