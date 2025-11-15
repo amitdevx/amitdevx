@@ -1,11 +1,10 @@
-![Profile Banner](./docs/banner-white.png)
+![Profile Banner](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/banner-white.png)
 
 # Amit Divekar 👨‍💻
 
-**uffamit** · he/him · 1 follower · 3 following  
+**uffamit** · he/him · 1 follower · 4 following  
 
-
-I'm a passionate B.Sc. Computer Science student at Savitribai Phule Pune University, dedicated to crafting impactful digital solutions through code. As a software and web developer, I specialize in building modern, user-focused applications with technologies like **Next.js**, **TypeScript**, **Tailwind CSS**, and more. My goal is to create seamless, innovative experiences that make a difference.
+I'm a passionate B.Sc. Computer Science student at Savitribai Phule Pune University, dedicated to crafting impactful digital solutions through code. As a software and web developer, I specialize in building modern, responsive web applications with cutting-edge technologies.
 
 🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
 🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
@@ -28,19 +27,19 @@ I'm a passionate B.Sc. Computer Science student at Savitribai Phule Pune Univers
 - **[eatinformed](https://github.com/uffamit/eatinformed)**  
   An AI-driven nutrition app with a sleek landing page using glassmorphism and interactive animations.  
   *TypeScript*  
-  ![eatinformed Screenshot](./docs/eatinformed-screenshot.png)
+  ![eatinformed Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/eatinformed-screenshot.png)
 
 - **[mini-project](https://github.com/uffamit/mini-project)**  
   A compact TypeScript project exploring innovative UI/UX solutions.  
   *TypeScript*  
-  ![Mini Project Screenshot](./docs/mini-project-screenshot.png)
+  ![Mini Project Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/mini-project-screenshot.png)
 
 - **[portfolio](https://github.com/uffamit/portfolio)**  
   A modern, responsive portfolio with 3D animations and an AI-driven skills graph, hosted on Vercel.  
-  *TypeScript*  
+  *TypeScript*
 
 - **[file-upload1](https://github.com/uffamit/file-upload1)**  
-  A utility for secure and efficient file uploads with a clean interface.  
+  A utility for secure and efficient file uploads with a clean interface.
 
 ## 📊 GitHub Stats
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uffamit&show_icons=true&theme=dracula)
