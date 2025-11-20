@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Amit+Divekar;uffamit" alt="Amit Divekar" />
 </div>
 
-· he/him · 1 follower · 4 following 
-· ![Profile Views](https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> <img src="https://img.shields.io/github/followers/uffamit?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
+<img src="https://img.shields.io/badge/Following-4-0077B5?style=flat&logo=github" alt="Following" valign="middle" /> <img src="https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
 
   🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
   🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
