@@ -4,12 +4,10 @@
 
 <br/>
 
-<div align="center">
-  <img align="right" src="./docs/ghost.gif" width="180" alt="Ghost Animation" />
-
 # Amit Divekar 
 
-  **uffamit** 
+  **uffamit** · he/him · 1 follower · 4 following 
+· ![Profile Views](https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat)
 
   🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
   🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
@@ -27,8 +25,11 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+<div align="left">
+  <div align="center">
+  <img align="right" src="./docs/ghost.gif" width="200" alt="Ghost Animation" />
+</div>
+  
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -68,4 +69,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uffamit&layout=compact&theme=dracula)
 
 ## 📫 Get in Touch
-- 📧 [Email](mailto:amitdivekar289@gmail.com)
+  
+<div align="left">
+  <a href="http://amitdivekar.qzz.io/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/divekar-amit/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Divekar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/amitdevx">
+    <img src="https://img.shields.io/badge/Instagram-@amitdevx-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:amitdivekar289@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amitdivekar289%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <img src="./docs/cat.gif" width="55" alt="cat Animation" style="vertical-align:middle;" />
+</div>
