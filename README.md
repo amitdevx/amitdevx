@@ -1,11 +1,21 @@
-![Profile Banner](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/banner-white.png)
+<div align="center">
+  <img src="./docs/banner.gif" width="100%" alt="Banner Animation" />
+</div>
 
-# Amit Divekar 👨‍💻
+<br/>
 
-**uffamit** · he/him · 1 follower · 4 following  
+<div align="center">
+  <img align="right" src="./docs/ghost.gif" width="180" alt="Ghost Animation" />
 
-🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
-🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
+  # Amit Divekar 👨‍💻
+
+  **uffamit** · he/him · 1 follower · 4 following  
+
+  🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
+  🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
+</div>
+
+<br clear="all"/>
 
 ## 🏆 Achievements
 - 🦈 **Pull Shark**: Contributed impactful pull requests to open-source projects.  
@@ -22,18 +32,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📌 Pinned Projects
-- **[eatinformed](https://github.com/uffamit/eatinformed)**  
-  An AI-driven nutrition app with a sleek landing page using glassmorphism and interactive animations.  
-  *TypeScript*  
-  ![eatinformed Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/eatinformed-screenshot.png)
+- **[eatinformed](https://github.com/uffamit/eatinformed)** An AI-driven nutrition app with a sleek landing page using glassmorphism and interactive animations.  
+  *TypeScript* ![eatinformed Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/eatinformed-screenshot.png)
 
-- **[mini-project](https://github.com/uffamit/mini-project)**  
-  A compact TypeScript project exploring innovative UI/UX solutions.  
-  *TypeScript*  
-  ![Mini Project Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/mini-project-screenshot.png)
+- **[mini-project](https://github.com/uffamit/mini-project)** A compact TypeScript project exploring innovative UI/UX solutions.  
+  *TypeScript* ![Mini Project Screenshot](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/mini-project-screenshot.png)
 
-- **[portfolio](https://github.com/uffamit/portfolio)**  
-  A modern, responsive portfolio with 3D animations and an AI-driven skills graph, hosted on Vercel.  
+- **[portfolio](https://github.com/uffamit/portfolio)** A modern, responsive portfolio with 3D animations and an AI-driven skills graph, hosted on Vercel.  
   *TypeScript*
    ![](https://raw.githubusercontent.com/uffamit/uffamit/main/docs/portfolio.png)
 
@@ -43,5 +48,3 @@
 
 ## 📫 Get in Touch
 - 📧 [Email](mailto:amitdivekar289@gmail.com)
-
----
