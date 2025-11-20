@@ -1,12 +1,12 @@
 <div align="center">
   <img src="./docs/banner.gif" width="100%" alt="Banner Animation" />
 </div>
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Amit+Divekar;uffamit" alt="Amit Divekar" />
+</div>
 
-<br/>
-
-# Amit Divekar 
-
-  **uffamit** · he/him · 1 follower · 4 following 
+· he/him · 1 follower · 4 following 
 · ![Profile Views](https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat)
 
   🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
