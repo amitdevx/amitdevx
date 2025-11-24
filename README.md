@@ -68,6 +68,19 @@
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uffamit&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uffamit&layout=compact&theme=dracula)
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+
 ## 📫 Get in Touch
   
 <div align="left">
