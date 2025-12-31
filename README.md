@@ -8,9 +8,8 @@
 
 <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> <img src="https://img.shields.io/github/followers/uffamit?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
 <img src="https://img.shields.io/badge/Following-4-0077B5?style=flat&logo=github" alt="Following" valign="middle" /> <img src="https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
-
-  🌟 **Currently working on**: A professional portfolio website with 3D-like animations and an AI-powered skills graph, hosted on Vercel.  
-  🚀 **Exploring**: Advanced React patterns, API integrations, and scalable web architectures.
+ 
+  🚀 **exploring AI-powered features and DevOps practices to ship reliable software.**
 </div>
 
 <br clear="all"/>
@@ -21,7 +20,6 @@
 
 ## 🌟 Highlights
 - 💠 **Developer Program Member**
-- 🏆 **Pro**
 
 ## 🛠️ Tech Stack
 
@@ -84,8 +82,8 @@
 ## 📫 Get in Touch
   
 <div align="left">
-  <a href="http://amitdivekar.qzz.io/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://amitdevx.tech/">
+    <img src="https://img.shields.io/badge/Website-amitdevx-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/divekar-amit/">
     <img src="https://img.shields.io/badge/LinkedIn-Amit%20Divekar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -96,5 +94,4 @@
   <a href="mailto:amitdivekar289@gmail.com">
     <img src="https://img.shields.io/badge/Email-amitdivekar289%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
-  <img src="./docs/cat.gif" width="55" alt="cat Animation" style="vertical-align:middle;" />
 </div>
