@@ -3,25 +3,24 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Amit+Divekar;uffamit" alt="Amit Divekar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Amit+Divekar;amitdevx" alt="Amit Divekar" />
 </div>
 
-<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> <img src="https://img.shields.io/github/followers/uffamit?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
-<img src="https://img.shields.io/badge/Following-4-0077B5?style=flat&logo=github" alt="Following" valign="middle" /> <img src="https://komarev.com/ghpvc/?username=uffamit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
+<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> <img src="https://img.shields.io/github/followers/amitdevx?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
+<img src="https://img.shields.io/badge/Following-4-0077B5?style=flat&logo=github" alt="Following" valign="middle" /> <img src="https://komarev.com/ghpvc/?username=amitdevx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
  
-  🚀 **exploring AI-powered features and DevOps practices to ship reliable software.**
+ **exploring AI-powered features and DevOps practices to ship reliable software.**
 </div>
-
 <br clear="all"/>
 
-## 🏆 Achievements
+## Achievements
 - 🦈 **Pull Shark**: Contributed impactful pull requests to open-source projects.  
 - ⚡ **Quickdraw**: Rapidly resolved issues and merged code with precision.
 
-## 🌟 Highlights
-- 💠 **Developer Program Member**
+##  Highlights
+-  **Developer Program Member**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="left">
   <div align="center">
@@ -44,7 +43,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-
 ### DevOps, CI/CD & Cloud
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -54,7 +52,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -62,24 +59,19 @@
 
 </div>
 
-## 📊 GitHub Stats
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uffamit&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uffamit&layout=compact&theme=dracula)
-
-<br/>
+## GitHub 🐍
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/uffamit/uffamit/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitdevx/amitdevx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitdevx/amitdevx/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/amitdevx/amitdevx/output/github-snake.svg" />
   </picture>
 </div>
 
 <br/>
 
-
-## 📫 Get in Touch
+## Get in Touch
   
 <div align="left">
   <a href="https://amitdevx.tech/">
