@@ -4,21 +4,19 @@
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Amit+Divekar;amitdevx" alt="Amit Divekar" />
-</div>
+
 
 <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> <img src="https://img.shields.io/github/followers/amitdevx?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
 <img src="https://img.shields.io/badge/Following-4-0077B5?style=flat&logo=github" alt="Following" valign="middle" /> <img src="https://komarev.com/ghpvc/?username=amitdevx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
  
  **exploring AI-powered features and DevOps practices to ship reliable software.**
 </div>
+
 <br clear="all"/>
 
 ## Achievements
 - 🦈 **Pull Shark**: Contributed impactful pull requests to open-source projects.  
 - ⚡ **Quickdraw**: Rapidly resolved issues and merged code with precision.
-
-##  Highlights
--  **Developer Program Member**
 
 ## Tech Stack
 
@@ -59,7 +57,16 @@
 
 </div>
 
-## GitHub 🐍
+## GitHub stats🐍
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitdevx&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdevx&layout=compact&theme=tokyonight)
+
+</div>
+
+---
 
 <div align="center">
   <picture>
@@ -69,21 +76,21 @@
   </picture>
 </div>
 
-<br/>
-
 ## Get in Touch
   
-<div align="left">
-  <a href="https://amitdevx.tech/">
-    <img src="https://img.shields.io/badge/Website-amitdevx-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/divekar-amit/">
-    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Divekar-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/amitdevx">
-    <img src="https://img.shields.io/badge/Instagram-@amitdevx-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:amitdivekar289@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amitdivekar289%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
-  </a>
+<div align="center">
+
+<a href="https://amitdevx.tech">
+  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=00FF00" />
+</a>
+<a href="https://www.linkedin.com/in/divekar-amit/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00" />
+</a>
+<a href="https://www.instagram.com/amitdevx">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=00FF00" />
+</a>
+<a href="mailto:amitdivekar289@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=00FF00" />
+</a>
+
 </div>
