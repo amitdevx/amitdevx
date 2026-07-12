@@ -14,9 +14,6 @@
 
 <br clear="all"/>
 
-## Achievements
-- 🦈 **Pull Shark**: Contributed impactful pull requests to open-source projects.  
-- ⚡ **Quickdraw**: Rapidly resolved issues and merged code with precision.
 
 ## Tech Stack
 
